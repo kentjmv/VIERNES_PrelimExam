@@ -1,0 +1,8 @@
+---
+- name: Prelim Skills Exam Kent Jan Viernes
+  hosts: ubuntu
+  roles:
+    - python
+    - java
+    - changemotd
+    - createuser
